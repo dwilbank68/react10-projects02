@@ -1,0 +1,20 @@
+{
+  "name": "02",
+  "version": "1.0.0",
+  "description": "Client ID 2dbb3a73e1600a9cc587 Client Secret 4624ddae569e9d5195a431a797255ff3e37f14d7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "5.8",
+    "babel-loader": "5.3",
+    "webpack": "1.12"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  }
+}
